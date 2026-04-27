@@ -1,0 +1,22 @@
+{
+  "app_title": "Social Hub",
+  "email": "Электрондық пошта",
+  "password": "Құпия сөз",
+  "login": "Кіру",
+  "logout": "Шығу",
+  "register": "Тіркелу",
+  "create_account": "Аккаунт жасау",
+  "username": "Пайдаланушы аты",
+  "feed": "Жаңалықтар",
+  "create": "Жасау",
+  "explore": "Зерттеу",
+  "profile": "Профиль",
+  "post": "Жариялау",
+  "posted": "Пост жарияланды",
+  "whats_new": "Не жаңалық?",
+  "no_posts": "Әзірге пост жоқ",
+  "save": "Сақтау",
+  "dark_mode": "Қараңғы режим",
+  "language": "Тіл",
+  "my_posts": "Менің посттарым"
+}

@@ -1,0 +1,22 @@
+{
+  "app_title": "Social Hub",
+  "email": "Email",
+  "password": "Password",
+  "login": "Log in",
+  "logout": "Log out",
+  "register": "Register",
+  "create_account": "Create account",
+  "username": "Username",
+  "feed": "Feed",
+  "create": "Create",
+  "explore": "Explore",
+  "profile": "Profile",
+  "post": "Post",
+  "posted": "Post published",
+  "whats_new": "What is new?",
+  "no_posts": "No posts yet",
+  "save": "Save",
+  "dark_mode": "Dark mode",
+  "language": "Language",
+  "my_posts": "My posts"
+}

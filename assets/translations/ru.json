@@ -1,0 +1,22 @@
+{
+  "app_title": "Social Hub",
+  "email": "Почта",
+  "password": "Пароль",
+  "login": "Войти",
+  "logout": "Выйти",
+  "register": "Регистрация",
+  "create_account": "Создать аккаунт",
+  "username": "Имя пользователя",
+  "feed": "Лента",
+  "create": "Создать",
+  "explore": "Интересное",
+  "profile": "Профиль",
+  "post": "Опубликовать",
+  "posted": "Пост опубликован",
+  "whats_new": "Что нового?",
+  "no_posts": "Постов пока нет",
+  "save": "Сохранить",
+  "dark_mode": "Темная тема",
+  "language": "Язык",
+  "my_posts": "Мои посты"
+}
